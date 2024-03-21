@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+
+# Build artifacts
+cmake*/
+
+# Trash
+*.pb
+*.pb.cfg
+*.exe
+*.lnk
+*.url
