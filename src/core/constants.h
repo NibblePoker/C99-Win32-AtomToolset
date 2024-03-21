@@ -1,0 +1,13 @@
+#pragma once
+
+#define ATOM_NULL 0
+
+#define ATOM_TABLE_MIN 0x0001
+#define ATOM_TABLE_MAX 0xFFFF
+
+#define ATOM_TABLE_NUM_MAX 0xBFFF
+
+#define ATOM_TABLE_STR_MIN 0xC000
+#define ATOM_TABLE_STR_MAX 0xFFFF
+
+#define ATOM_TABLE_STR_MAX_LENGTH 256

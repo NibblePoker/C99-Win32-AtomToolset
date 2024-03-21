@@ -1,0 +1,3 @@
+[submodule "libs/C99-Utility-Libraries"]
+	path = libs/C99-Utility-Libraries
+	url = https://github.com/aziascreations/C99-Utility-Libraries.git
